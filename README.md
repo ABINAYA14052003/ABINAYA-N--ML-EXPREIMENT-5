@@ -35,7 +35,7 @@ KMeans minimizes within-cluster variance; relates to vector quantization.
 
 
 
-
+```
 
 ## INPUT
 
@@ -57,6 +57,7 @@ print('Inerita (WCSS):', round(kmeans.inertia_,3))
 
 ## OUTPUT:
 
+```
 <img width="546" height="435" alt="image" src="https://github.com/user-attachments/assets/70985b57-3018-4ced-b5e8-14b6e75835de" />
 
 
