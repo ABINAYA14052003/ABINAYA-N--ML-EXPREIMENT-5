@@ -29,6 +29,10 @@ Lloyd’s algorithm: assign to nearest centroid → recompute centroids until co
 
 
 
+### THEORY : 
+
+
+
 
 KMeans minimizes within-cluster variance; relates to vector quantization. 
 
